@@ -14,12 +14,12 @@ export default {
 
 <style lang="less" scoped>
 .channel-users {
-  position: absolute;
-  right: 0;
+  position: relative;
   width: 240px;
   background-color: rgba(47, 49, 54);
   height: 100vh;
   .content {
+    //padding-top: 48px;
     margin-top: 20px;
     display: flex;
     flex-direction: column;

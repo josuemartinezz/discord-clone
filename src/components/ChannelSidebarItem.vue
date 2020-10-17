@@ -25,7 +25,7 @@ export default {
 };
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .channel-sidebar-item {
   width: 100%;
   font-weight: normal;
